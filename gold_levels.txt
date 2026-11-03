@@ -1,5 +1,5 @@
-updated=2026.11.03 08:05
-expiry=2026.11.03 12:05
+updated=2026.11.03 12:05
+expiry=2026.11.03 16:05
 bias=NEUTRAL
 u1_low=3936
 u1_high=3944
