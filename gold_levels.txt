@@ -1,5 +1,5 @@
-updated=2026.11.14 12:06
-expiry=2026.11.14 16:06
+updated=2026.11.14 16:06
+expiry=2026.11.14 20:06
 bias=SELL
 u1_low=3900
 u1_high=3908
