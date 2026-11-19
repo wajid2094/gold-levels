@@ -1,10 +1,10 @@
-updated=2026.11.18 20:06
-expiry=2026.11.19 00:06
+updated=2026.11.19 00:07
+expiry=2026.11.19 04:07
 bias=SELL
-u1_low=3746
-u1_high=3754
-u2_low=3770
-u2_high=3778
+u1_low=3750
+u1_high=3758
+u2_low=3774
+u2_high=3782
 u3_low=3800
 u3_high=3808
 l1_low=3704
