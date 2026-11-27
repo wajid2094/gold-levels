@@ -1,6 +1,6 @@
-updated=2026.11.26 20:06
-expiry=2026.11.27 00:06
-bias=SELL
+updated=2026.11.27 00:06
+expiry=2026.11.27 04:06
+bias=NEUTRAL
 u1_low=3580
 u1_high=3590
 u2_low=3600
