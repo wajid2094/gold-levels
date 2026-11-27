@@ -1,29 +1,29 @@
-updated=2026.11.27 16:07
+updated=2026.11.27 20:06
 
-expiry=2026.11.27 20:07
+expiry=2026.11.28 00:06
 
 bias=NEUTRAL
 
-u1_low=3650
+u1_low=3655
 
-u1_high=3660
+u1_high=3665
 
-u2_low=3670
+u2_low=3675
 
-u2_high=3680
+u2_high=3685
 
-u3_low=3690
+u3_low=3695
 
-u3_high=3700
+u3_high=3705
 
-l1_low=3600
+l1_low=3620
 
-l1_high=3610
+l1_high=3630
 
-l2_low=3580
+l2_low=3600
 
-l2_high=3590
+l2_high=3610
 
-l3_low=3555
+l3_low=3580
 
-l3_high=3565
+l3_high=3590
