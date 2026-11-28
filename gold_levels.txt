@@ -1,6 +1,6 @@
-updated=2026.11.28 08:06
+updated=2026.11.28 12:06
 
-expiry=2026.11.28 12:06
+expiry=2026.11.28 16:06
 
 bias=NEUTRAL
 
